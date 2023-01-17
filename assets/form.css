@@ -1,0 +1,30 @@
+.form{
+    display: flex;
+}
+body {
+    background-color: black;
+    color: white;
+}
+label {
+    display: block;
+    color: white;
+}
+input {
+    border: 1px solid white;
+    border-radius: 12px;
+}
+
+.uname {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.mailbirth {
+    display: flex;
+    justify-content: space-between;
+}
+.password {
+    display: flex;
+    justify-content: space-between;
+}

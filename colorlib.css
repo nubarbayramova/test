@@ -1,0 +1,90 @@
+* {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.brand{
+    font-weight: 900;
+    font-size: xx-large;
+}
+
+.brand-description{
+    font-weight: 900;
+}
+
+.bold{
+    font-weight: 800;
+}
+
+.email{  
+    margin:0px 50px
+}
+
+#header-div{
+    display: flex;
+    justify-content: space-around;
+    width: 100%
+}
+#header-button {
+    background-color: orangered;
+    border: 0;
+    padding: 0rem 1rem 0rem 1rem;
+    align-items: center;
+    display: flex;
+    text-decoration: none;
+    color: white;
+    font-size: medium;
+}
+
+.topnav {
+    background-color: rgb(10, 4, 51);
+    overflow: hidden;
+    margin: auto 110px;
+    margin-top: 25px;
+}
+
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 18px 20px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.topnav a:hover {
+    color: white;
+}
+
+
+.topnav a.active {
+    color: rgba(238, 87, 49, 0.904);
+}
+.seach-box{
+    border-radius: 50%;
+}
+.image {
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
