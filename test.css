@@ -1,0 +1,28 @@
+
+.menu {
+
+    display:flex;
+    align-items: flex-end;
+    justify-content:right;
+}
+a {
+    margin-right: 50px;
+    text-decoration: none;
+}
+
+a :hover{
+    text-decoration: underline;
+}
+
+.sign {
+background-color:rgb(19, 105, 244);
+color: white;
+border-radius: 5px;
+border-color:rgb(19, 105, 244);
+padding: 10px,15px,10px,15px;
+}
+
+.logo{
+    display: flex;
+    justify-content: center;
+}
