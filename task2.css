@@ -1,0 +1,15 @@
+.menu {
+        display: flex;
+}
+.search {
+position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    margin: 250px 0;
+    width: 500px;
+    height: 35px;
+    border-radius: 25px;
+    border: 3px grey solid;
+    font-size: 20px;
+    padding: 5px;
+}
